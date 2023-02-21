@@ -11,5 +11,10 @@ RFM Analysis is a technique used to understand and analyze customer behavior. Th
 - Sort into groups according to RFM Scores,
 - Personalize marketing strategies for relevant segments
 
+**SOURCES:**
+--
+- https://www.analyticsvidhya.com/blog/2022/05/product-recommendation-system-using-rfm-analysis/
+- https://www.kaggle.com/learn/data-visualization
 
- 💭
+You can find the dataset [here](https://www.kaggle.com/datasets/mathchi/online-retail-ii-data-set-from-ml-repository)
+
