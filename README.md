@@ -22,4 +22,4 @@ RFM Analysis is a technique used to understand and analyze customer behavior. Th
 
 **License**
 --
-This project is licensed under the MIT License.
+This repo is licensed under the MIT License
