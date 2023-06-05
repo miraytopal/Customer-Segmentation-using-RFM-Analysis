@@ -8,7 +8,7 @@ RFM Analysis is a technique used to understand and analyze customer behavior. Th
 
 ✔️ ***In this repo, we'll follow these steps:***
 
-- Calculating Receny, Frequency, Monetary values,
+- Calculating Recency, Frequency, Monetary values,
 - Defining RFM scores,
 - Sort into groups according to RFM scores,
 - Personalize marketing strategies for relevant segments
